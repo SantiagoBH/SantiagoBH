@@ -9,6 +9,8 @@ I'm an Electronic Engineer with an emphasis on telecommunications, possessing sk
 - I have experience and knowledge in handling various routing protocols (OSPF, EIGRP, BGP, etc)
 - I am well-versed in the OSI and TCP/IP models.
 - Implementation of technologies such as DNS, DHCP, Apache, MPLS, ACLs, SDN, QoE, and QoS.
+- Linux Operating System Management
+- I have knowledge in software such as Arduino, Proteus, Multisim, Matlab, Visual Studio Code, Android Studio and etc.
 
 # Skills
 <div style="display: flex; align-items: center;">
@@ -25,7 +27,8 @@ I'm an Electronic Engineer with an emphasis on telecommunications, possessing sk
   <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" width="100" height="100">
   <img src="https://github.com/SantiagoBH/SantiagoBH/assets/47339991/91c79f0d-68b0-4e6b-a9cf-1e530afa7d94" width="100" height="100">
   <img src="https://camo.githubusercontent.com/ec6a8af1dddf54a57983b112aa3d487a3a2f57467b1af30f54150a3bde8a0a29/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f32352f32353233312e706e67" width="100" height="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="100" height="100">
+  <img src="https://static.wixstatic.com/media/c4d23b_e491b1504ef449468acb4bca99792321~mv2.jpg/v1/fill/w_420,h_280,al_c,q_90/file.jpg" width="100" height="100">
 
   
 </div>
