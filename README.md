@@ -29,6 +29,8 @@ I'm an Electronic Engineer with an emphasis on telecommunications, possessing sk
   <img src="https://camo.githubusercontent.com/ec6a8af1dddf54a57983b112aa3d487a3a2f57467b1af30f54150a3bde8a0a29/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f32352f32353233312e706e67" width="100" height="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="100" height="100">
   <img src="https://static.wixstatic.com/media/c4d23b_e491b1504ef449468acb4bca99792321~mv2.jpg/v1/fill/w_420,h_280,al_c,q_90/file.jpg" width="100" height="100">
-
+  <img src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" width="100" height="100">
+  <img src="https://github.com/SantiagoBH/SantiagoBH/assets/47339991/5d423319-31d1-4570-99c6-7afbf79853be" width="100" height="100">
+  <img src="https://github.com/SantiagoBH/SantiagoBH/assets/47339991/27ad9e99-6160-48d2-aa0b-32263d5a98de" width="100" height="100">
   
 </div>
