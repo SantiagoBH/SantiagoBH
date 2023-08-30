@@ -6,10 +6,10 @@ I'm an Electronic Engineer with an emphasis on telecommunications, possessing sk
 
 - I have expertise in wireless networks, including LAN, WAN, and WLAN.
 - I have worked on router configuration (Cisco and Juniper) and switches.
-- I have experience and knowledge in handling various routing protocols (OSPF, EIGRP, BGP, etc)
+- I have experience and knowledge in handling various routing protocols (OSPF, EIGRP, BGP, etc).
 - I am well-versed in the OSI and TCP/IP models.
 - Implementation of technologies such as DNS, DHCP, Apache, MPLS, ACLs, SDN, QoE, and QoS.
-- Linux Operating System Management
+- Linux Operating System Management.
 - I have knowledge in software such as Arduino, Proteus, Multisim, Matlab, Visual Studio Code, Android Studio and etc.
 
 # Skills
